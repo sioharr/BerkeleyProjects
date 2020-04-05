@@ -1,0 +1,1 @@
+Our team of four people (  ) applied traditional finance methods to the crypto currency market.  Our team set up a database in AWS with daily updates from several cyrpto currency markets and then built a portfolio that balanced risk and return.  This project is also highlighted on the Berkeley site - https://www.ischool.berkeley.edu/projects/2019/mc2-cryptocurreny-portfolio
